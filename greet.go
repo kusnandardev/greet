@@ -3,5 +3,5 @@ package greet
 import "fmt"
 
 func HelloFromToni() {
-	fmt.Println("Hai Semua!")
+	fmt.Println("Hai Semua, ini terupdate!")
 }
